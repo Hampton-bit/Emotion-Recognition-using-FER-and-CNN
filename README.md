@@ -20,7 +20,8 @@ cData Augmentation:** Applied rotation, zoom, and horizontal flip to increase da
 
 ## Achievements
 - Reached **83.52% validation accuracy** in recognizing facial expressions from the FER+ dataset.
-- Successfully implemented a **data augmentation pipeline** to enhance model robustness.
+- Successfully implemented a
+- **data augmentation pipeline** to enhance model robustness.
 
 ## Installation
 
