@@ -1,7 +1,7 @@
 # Facial_Emotion_Recognition
 # Emotion Recognition using FER+ and CNN
 
-### June 2022 – August 2022
+
 
 This project focuses on building a robust emotion recognition system capable of identifying human emotions from facial expressions. Using the **FER+ dataset** and **Convolutional Neural Networks (CNN)**, the model achieves high accuracy through data augmentation and pre-processing techniques.
 
